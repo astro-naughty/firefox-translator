@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ES3",
+        "jsx": "react",
+        "allowJs": true,
+        "resolveJsonModule": true,
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "lib": [ "DOM", "ES6", "ESNext" ]
+    },
+    "exclude": [ "node_modules" ],
+    "include": [ "src" ]
+}
