@@ -1,6 +1,8 @@
 # Translator
 This simple Firefox plugin was developed to meet my personal requirements. It's small and easy to use, lets you translate words using google, look them up in google search and copy them to clipboard.
 
+![screenshot](screenshot.png "The Translator")
+
 ## how to build
 Simply open terminal in project directory and run:
 ```
